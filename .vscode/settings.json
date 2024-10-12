@@ -1,0 +1,4 @@
+{
+    "DevChat.DevChatPath": "/root/.chat/mamba/envs/devchat/bin/devchat",
+    "DevChat.OpenAI.model": "gpt-4"
+}
